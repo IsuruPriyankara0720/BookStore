@@ -22,22 +22,28 @@ Welcome to the **Bookstore App** – your one-stop solution for browsing, saving
 Follow these steps to set up the Bookstore App on your local machine:
 
 1. **Clone the repository**:
-  Install dependencies:
+   ```bash
+   git clone https://github.com/your-username/bookstore-app.git
+   cd bookstore-app
+
+2. **Install dependencies**:
 
 bash
-Copy
 flutter pub get
 Run the app:
 
+3. **Run the app**:
+
 bash
-Copy
 flutter run
 Build the app (optional):
 
+4. **Build the app (optional):**:
+
 bash
-Copy
 flutter build apk
-🎨 Usage
+
+## 🎨 Usage
 Home Screen
 Browse through a list of books.
 
@@ -58,12 +64,13 @@ Update your profile information.
 
 Log out or manage app settings.
 
-📸 Screenshots
+## 📸 Screenshots
 Home Screen	Book Details	Cart
 Home Screen	Book Details	Cart
 Bookmarks	Profile
 Bookmarks	Profile
-🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 Flutter: A powerful UI toolkit for building natively compiled applications.
 
 Dart: The programming language used for Flutter development.
@@ -72,7 +79,7 @@ Material Design: For a clean and modern UI.
 
 State Management: Built-in Flutter state management for dynamic updates.
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! If you'd like to contribute to the Bookstore App, please follow these steps:
 
 Fork the repository.
