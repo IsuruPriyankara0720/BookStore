@@ -46,35 +46,35 @@ Follow these steps to set up the Bookstore App on your local machine:
 ## 🎨 Usage
 Home Screen
 - **Browse Books**: Explore a wide range of books with detailed descriptions.
-- **Browse through a list of books.
+- Browse through a list of books.
 
-Tap on a book to view its details.
+-Tap on a book to view its details.
 
-Add books to your cart or bookmark them for later.
+-Add books to your cart or bookmark them for later.
 
 Cart
-View and manage items in your cart.
+-View and manage items in your cart.
 
-Adjust quantities or remove items.
+-Adjust quantities or remove items.
 
 Bookmarks
-Access your saved books anytime.
+-Access your saved books anytime.
 
 Profile
-Update your profile information.
+-Update your profile information.
 
-Log out or manage app settings.
+-Log out or manage app settings.
 
 
 
 ## 🛠️ Technologies Used
-Flutter: A powerful UI toolkit for building natively compiled applications.
+-**Flutter**: A powerful UI toolkit for building natively compiled applications.
 
-Dart: The programming language used for Flutter development.
+-**Dart**: The programming language used for Flutter development.
 
-Material Design: For a clean and modern UI.
+-**Material Design**: For a clean and modern UI.
 
-State Management: Built-in Flutter state management for dynamic updates.
+-**State Management**: Built-in Flutter state management for dynamic updates.
 
 ## 🤝 Contributing
 We welcome contributions! If you'd like to contribute to the Bookstore App, please follow these steps:
