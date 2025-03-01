@@ -2,7 +2,7 @@
 
 Welcome to the **Bookstore App** – your one-stop solution for browsing, saving, and purchasing your favorite books! This app is designed to provide a seamless and enjoyable experience for book lovers, offering features like book details, a shopping cart, bookmarks, and user profiles.
 
-![App Screenshot](assets/screenshot.png) <!-- Add a screenshot of your app here -->
+
 
 ---
 
@@ -28,24 +28,25 @@ Follow these steps to set up the Bookstore App on your local machine:
 
 2. **Install dependencies**:
 
-bash
-flutter pub get
-Run the app:
+   ```bash
+   flutter pub get
+   Run the app:
 
 3. **Run the app**:
 
-bash
-flutter run
-Build the app (optional):
+   ```bashbash
+   flutter run
+   Build the app (optional):
 
 4. **Build the app (optional):**:
 
-bash
-flutter build apk
+   ```bash
+   flutter build apk
 
 ## 🎨 Usage
 Home Screen
-Browse through a list of books.
+- **Browse Books**: Explore a wide range of books with detailed descriptions.
+- **Browse through a list of books.
 
 Tap on a book to view its details.
 
@@ -64,11 +65,7 @@ Update your profile information.
 
 Log out or manage app settings.
 
-## 📸 Screenshots
-Home Screen	Book Details	Cart
-Home Screen	Book Details	Cart
-Bookmarks	Profile
-Bookmarks	Profile
+
 
 ## 🛠️ Technologies Used
 Flutter: A powerful UI toolkit for building natively compiled applications.
